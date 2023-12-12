@@ -1,0 +1,471 @@
+Your Age,Gender,Average Sleeping Hours,Average no.of meals per day,How often do you consume fruits and vegetables in a week?,How often do you consume fast food or processed food in a week? ,How often do you consume soft drinks in a week?,Stress levels,water intake in a day,Do you have any existing medical conditions?,"On average, how frequently do you visit a doctor in a span of 3 month? ",Your immunity power
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Low,Moderate,No,0,7
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Female,more then 6,sometimes skips dinner,3-4 days,Everyday,3-4 days,High,Moderate,No,0,5
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,High,No,1-2 times,5
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,9
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,No,3-4 times,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Low,No,0,4
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Moderate,Yes,0,7
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,High,No,0,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,7
+20 below,Female,6,sometimes skips breakfast,Rarely,3-4 days,EveryDay,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,9
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Low,No,0,7
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Female,6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,7
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+20 below,Female,6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,EveryDay,Moderate,Moderate,No,1-2 times,7
+20 below,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,7
+20 below,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Low,No,0,8
+40+,Female,less then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,No,0,10
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,Yes,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,3-4 days,High,Very Low,Yes,0,6
+40+,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,Moderate,Yes,3-4 times,4
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,Moderate,No,1-2 times,8
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,Yes,0,7
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,0,5
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,0,5
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,5
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,1-2 times,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Low,Moderate,No,1-2 times,6
+20 below,Female,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Low,No,0,10
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Low,High,No,0,10
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,High,Moderate,Yes,0,5
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,No,0,8
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Very Low,Yes,more the 4 times,5
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,Yes,1-2 times,7
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Low,No,1-2 times,8
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,Yes,0,7
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,Yes,0,1
+40+,Male,more then 6,sometimes skips dinner,Everyday,3-4 days,Rarely,Low,High,Yes,3-4 times,7
+31-40,Male,less then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,Rarely,Moderate,Low,No,0,8
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,6
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,Yes,0,6
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Moderate,Moderate,No,0,6
+40+,Male,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,1-2 times,8
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,High,Yes,0,7
+31-40,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,1-2 times,7
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,No,3-4 times,4
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,Moderate,Yes,3-4 times,3
+31-40,Female,6,sometimes skips lunch,3-4 days,Everyday,EveryDay,High,Moderate,No,more the 4 times,5
+40+,Male,less then 6,sometimes skips lunch,3-4 days,Rarely,Rarely,High,Moderate,Yes,1-2 times,5
+20 below,Female,more then 6,sometimes skips breakfast,3-4 days,3-4 days,3-4 days,High,Very Low,No,1-2 times,6
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,9
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,0,3
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,No,0,8
+21-30,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,3-4 days,High,Moderate,No,0,9
+31-40,Male,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,Low,No,0,9
+21-30,Male,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Low,High,No,0,10
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Low,No,0,8
+21-30,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,High,Low,Yes,1-2 times,7
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,Yes,1-2 times,7
+21-30,Male,less then 6,sometimes skips lunch,Rarely,3-4 days,3-4 days,Moderate,Low,No,0,8
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,High,Moderate,Yes,0,9
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Moderate,No,0,3
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,3-4 days,Low,Moderate,No,0,9
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,Low,No,1-2 times,6
+21-30,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,High,Yes,0,5
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,1-2 times,10
+21-30,Female,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,High,No,0,7
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,5
+31-40,Male,more then 6,sometimes skips dinner,Rarely,Everyday,3-4 days,High,Low,No,0,8
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,3-4 days,Moderate,Moderate,No,1-2 times,5
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,3-4 days,High,Low,No,0,5
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,3-4 times,5
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,High,Moderate,Yes,1-2 times,6
+21-30,Female,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,High,Low,No,0,4
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Low,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,3-4 days,Low,Low,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Everyday,Everyday,Rarely,High,Moderate,No,0,9
+21-30,Female,6,sometimes skips breakfast,Rarely,Rarely,EveryDay,Moderate,Very Low,No,1-2 times,6
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,Very Low,No,1-2 times,1
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Low,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,High,No,0,6
+40+,Female,6,sometimes skips lunch,3-4 days,3-4 days,3-4 days,High,High,No,0,9
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,3-4 days,Moderate,Low,Yes,more the 4 times,3
+31-40,Male,more then 6,sometimes skips lunch,Everyday,Everyday,Rarely,Moderate,Moderate,No,3-4 times,7
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,6,sometimes skips breakfast,Rarely,Rarely,Rarely,Low,Moderate,Yes,0,4
+31-40,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,3-4 days,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,less then 6,sometimes skips dinner,3-4 days,3-4 days,EveryDay,High,Low,Yes,3-4 times,8
+21-30,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,Moderate,High,Yes,3-4 times,3
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,EveryDay,Low,High,Yes,0,8
+31-40,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Very Low,Yes,3-4 times,6
+31-40,Female,less then 6,sometimes skips dinner,3-4 days,3-4 days,3-4 days,High,Moderate,No,1-2 times,6
+31-40,Female,6,sometimes skips lunch,Rarely,Rarely,Rarely,High,High,No,more the 4 times,6
+31-40,Female,less then 6,sometimes skips lunch,Rarely,Everyday,EveryDay,Moderate,Low,Yes,1-2 times,7
+20 below,Female,less then 6,sometimes skips dinner,Everyday,Everyday,Rarely,High,Moderate,Yes,more the 4 times,4
+20 below,Female,more then 6,sometimes skips lunch,Rarely,Rarely,EveryDay,Moderate,Moderate,No,1-2 times,9
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,EveryDay,Moderate,Moderate,No,0,8
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Low,Yes,1-2 times,5
+31-40,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,Yes,3-4 times,4
+31-40,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,Moderate,Moderate,Yes,3-4 times,6
+31-40,Male,more then 6,sometimes skips dinner,Rarely,Rarely,Rarely,High,Moderate,Yes,more the 4 times,7
+31-40,Female,less then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,High,Yes,3-4 times,8
+31-40,Male,more then 6,sometimes skips lunch,3-4 days,3-4 days,3-4 days,High,High,Yes,more the 4 times,6
+31-40,Female,6,sometimes skips dinner,Everyday,3-4 days,EveryDay,Moderate,Very Low,Yes,3-4 times,5
+31-40,Female,6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Very Low,Yes,3-4 times,2
+31-40,Female,less then 6,sometimes skips lunch,Everyday,Rarely,Rarely,Moderate,Moderate,No,0,10
+31-40,Male,more then 6,sometimes skips dinner,Rarely,3-4 days,3-4 days,Low,Moderate,Yes,3-4 times,2
+31-40,Female,more then 6,sometimes skips lunch,Everyday,3-4 days,EveryDay,Low,Moderate,No,3-4 times,5
+31-40,Female,less then 6,sometimes skips breakfast,Everyday,Rarely,3-4 days,Low,Very Low,Yes,1-2 times,5
+31-40,Male,more then 6,sometimes skips lunch,Rarely,3-4 days,Rarely,High,Moderate,Yes,1-2 times,5
+31-40,Female,6,sometimes skips lunch,Everyday,3-4 days,EveryDay,Moderate,High,Yes,3-4 times,4
+31-40,Female,less then 6,sometimes skips breakfast,3-4 days,3-4 days,EveryDay,Moderate,Very Low,Yes,1-2 times,7
+31-40,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,3-4 days,High,High,No,3-4 times,5
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,High,Moderate,No,0,8
+31-40,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,No,3-4 times,7
+31-40,Female,less then 6,sometimes skips lunch,3-4 days,Rarely,3-4 days,Low,Very Low,Yes,1-2 times,4
+40+,Male,6,sometimes skips dinner,Everyday,Rarely,EveryDay,Low,Moderate,Yes,more the 4 times,5
+20 below,Male,less then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,3-4 days,Low,Low,No,3-4 times,3
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,Rarely,High,Moderate,Yes,0,7
+31-40,Male,6,sometimes skips dinner,Rarely,Everyday,3-4 days,Moderate,Moderate,No,more the 4 times,3
+31-40,Female,more then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,High,High,No,1-2 times,2
+40+,Female,less then 6,sometimes skips dinner,3-4 days,Rarely,EveryDay,Moderate,Very Low,Yes,0,5
+40+,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,Moderate,Low,No,more the 4 times,5
+40+,Male,more then 6,sometimes skips breakfast,Everyday,Everyday,3-4 days,High,High,Yes,3-4 times,4
+40+,Female,6,sometimes skips dinner,Everyday,Rarely,3-4 days,Low,Moderate,No,0,10
+31-40,Female,6,sometimes skips lunch,Everyday,Everyday,3-4 days,Moderate,Very Low,Yes,1-2 times,2
+31-40,Female,6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,EveryDay,Moderate,Very Low,Yes,more the 4 times,2
+21-30,Male,more then 6,sometimes skips breakfast,Everyday,Rarely,EveryDay,Low,Low,Yes,3-4 times,3
+40+,Female,more then 6,sometimes skips dinner,Everyday,Rarely,Rarely,High,High,Yes,1-2 times,3
+31-40,Male,more then 6,sometimes skips dinner,Rarely,Everyday,Rarely,High,High,No,3-4 times,9
+40+,Female,more then 6,sometimes skips breakfast,Everyday,3-4 days,EveryDay,Moderate,Very Low,Yes,1-2 times,5
+31-40,Female,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,Yes,3-4 times,7
+31-40,Male,6,sometimes skips dinner,Everyday,Rarely,Rarely,High,Moderate,No,3-4 times,4
+31-40,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Low,Low,Yes,3-4 times,2
+31-40,Female,less then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,more the 4 times,2
+31-40,Female,6,sometimes skips breakfast,Rarely,Rarely,Rarely,High,Moderate,Yes,more the 4 times,2
+31-40,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,Moderate,Low,Yes,1-2 times,5
+31-40,Male,more then 6,sometimes skips lunch,Everyday,Rarely,Rarely,High,Moderate,No,1-2 times,5
+31-40,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Very Low,Yes,3-4 times,9
+31-40,Female,less then 6,sometimes skips lunch,Everyday,3-4 days,EveryDay,Moderate,Very Low,Yes,0,7
+20 below,Female,less then 6,sometimes skips dinner,Everyday,3-4 days,EveryDay,High,High,No,more the 4 times,2
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,No,3-4 times,8
+21-30,Male,6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Low,No,0,4
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Moderate,Yes,0,7
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,High,No,0,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,7
+20 below,Female,6,sometimes skips breakfast,Rarely,3-4 days,EveryDay,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,9
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Low,No,0,7
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Female,6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,7
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Female,more then 6,sometimes skips dinner,3-4 days,Everyday,3-4 days,High,Moderate,No,0,5
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,High,No,1-2 times,5
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,9
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,No,3-4 times,8
+21-30,Male,6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Low,No,0,4
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Moderate,Yes,0,7
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,High,No,0,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,7
+20 below,Female,6,sometimes skips breakfast,Rarely,3-4 days,EveryDay,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,9
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Low,No,0,7
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Female,6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,7
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+20 below,Female,6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,EveryDay,Moderate,Moderate,No,1-2 times,7
+20 below,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,7
+20 below,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Low,No,0,8
+40+,Female,less then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,No,0,10
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,Yes,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,3-4 days,High,Very Low,Yes,0,6
+40+,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,Moderate,Yes,3-4 times,4
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,Moderate,No,1-2 times,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Moderate,Yes,0,7
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,High,No,0,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,7
+20 below,Female,6,sometimes skips breakfast,Rarely,3-4 days,EveryDay,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,9
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Low,No,0,7
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Female,6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,7
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+20 below,Female,6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,EveryDay,Moderate,Moderate,No,1-2 times,7
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Low,Moderate,No,0,7
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Female,more then 6,sometimes skips dinner,3-4 days,Everyday,3-4 days,High,Moderate,No,0,5
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,High,No,1-2 times,5
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,9
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,No,3-4 times,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Low,No,0,4
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Moderate,Yes,0,7
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,High,No,0,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,7
+20 below,Female,6,sometimes skips breakfast,Rarely,3-4 days,EveryDay,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,9
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Low,No,0,7
+20 below,Female,more then 6,sometimes skips lunch,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+20 below,Female,6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,7
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+20 below,Female,6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,EveryDay,Moderate,Moderate,No,1-2 times,7
+20 below,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,7
+20 below,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Low,No,0,8
+40+,Female,less then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,No,0,10
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Moderate,Moderate,Yes,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,3-4 days,High,Very Low,Yes,0,6
+40+,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,Moderate,Yes,3-4 times,4
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,High,No,0,7
+31-40,Female,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,Moderate,No,1-2 times,8
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,Yes,0,7
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,0,5
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,0,5
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,7
+21-30,Male,6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Moderate,Moderate,No,1-2 times,5
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,6
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,1-2 times,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,3-4 days,Rarely,Low,Moderate,No,1-2 times,6
+20 below,Female,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Low,No,0,10
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,High,No,0,8
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Low,High,No,0,10
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,High,Moderate,Yes,0,5
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,No,0,8
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Very Low,Yes,more the 4 times,5
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,Yes,1-2 times,7
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Low,No,1-2 times,8
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,Yes,0,7
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,Yes,0,1
+40+,Male,more then 6,sometimes skips dinner,Everyday,3-4 days,Rarely,Low,High,Yes,3-4 times,7
+31-40,Male,less then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,Rarely,Moderate,Low,No,0,8
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,6
+40+,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Low,Moderate,Yes,0,6
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Moderate,Moderate,No,0,6
+40+,Male,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,1-2 times,8
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,High,Yes,0,7
+31-40,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,High,High,No,1-2 times,7
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,No,3-4 times,4
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,Moderate,Yes,3-4 times,3
+31-40,Female,6,sometimes skips lunch,3-4 days,Everyday,EveryDay,High,Moderate,No,more the 4 times,5
+40+,Male,less then 6,sometimes skips lunch,3-4 days,Rarely,Rarely,High,Moderate,Yes,1-2 times,5
+20 below,Female,more then 6,sometimes skips breakfast,3-4 days,3-4 days,3-4 days,High,Very Low,No,1-2 times,6
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,9
+40+,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,0,3
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Low,Moderate,No,0,8
+21-30,Male,6,sometimes skips breakfast,3-4 days,Rarely,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,3-4 days,High,Moderate,No,0,9
+31-40,Male,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,Low,No,0,9
+21-30,Male,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,Low,No,0,9
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Low,Moderate,No,0,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Low,High,No,0,10
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Low,No,0,8
+21-30,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,High,Low,Yes,1-2 times,7
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Moderate,No,1-2 times,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,Moderate,No,0,8
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,Yes,1-2 times,7
+21-30,Male,less then 6,sometimes skips lunch,Rarely,3-4 days,3-4 days,Moderate,Low,No,0,8
+40+,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,High,Moderate,Yes,0,9
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,Moderate,Moderate,No,0,3
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,3-4 days,Low,Moderate,No,0,9
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,High,Low,No,1-2 times,6
+21-30,Male,less then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,High,Yes,0,5
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,1-2 times,10
+21-30,Female,more then 6,sometimes skips breakfast,Rarely,Rarely,3-4 days,Moderate,High,No,0,7
+21-30,Female,6,sometimes skips breakfast,3-4 days,Rarely,Rarely,Moderate,High,No,0,5
+31-40,Male,more then 6,sometimes skips dinner,Rarely,Everyday,3-4 days,High,Low,No,0,8
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,3-4 days,Moderate,Moderate,No,1-2 times,5
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Moderate,No,0,7
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,3-4 days,High,Low,No,0,5
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,High,Moderate,No,3-4 times,5
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,High,Moderate,Yes,1-2 times,6
+21-30,Female,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,High,Low,No,0,4
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,Rarely,Moderate,Low,No,0,8
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,3-4 days,Low,Low,No,0,8
+20 below,Male,less then 6,sometimes skips breakfast,Everyday,Everyday,Rarely,High,Moderate,No,0,9
+21-30,Female,6,sometimes skips breakfast,Rarely,Rarely,EveryDay,Moderate,Very Low,No,1-2 times,6
+20 below,Female,more then 6,sometimes skips breakfast,Everyday,Rarely,Rarely,Low,Very Low,No,1-2 times,1
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Low,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,High,No,0,6
+40+,Female,6,sometimes skips lunch,3-4 days,3-4 days,3-4 days,High,High,No,0,9
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,3-4 days,Moderate,Low,Yes,more the 4 times,3
+31-40,Male,more then 6,sometimes skips lunch,Everyday,Everyday,Rarely,Moderate,Moderate,No,3-4 times,7
+31-40,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,6,sometimes skips breakfast,Rarely,Rarely,Rarely,Low,Moderate,Yes,0,4
+31-40,Male,6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,3-4 days,Moderate,Moderate,Yes,1-2 times,5
+40+,Male,less then 6,sometimes skips dinner,3-4 days,3-4 days,EveryDay,High,Low,Yes,3-4 times,8
+21-30,Female,less then 6,sometimes skips breakfast,Rarely,Rarely,Rarely,Moderate,High,Yes,3-4 times,3
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,EveryDay,Low,High,Yes,0,8
+31-40,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,High,Very Low,Yes,3-4 times,6
+31-40,Female,less then 6,sometimes skips dinner,3-4 days,3-4 days,3-4 days,High,Moderate,No,1-2 times,6
+31-40,Female,6,sometimes skips lunch,Rarely,Rarely,Rarely,High,High,No,more the 4 times,6
+31-40,Female,less then 6,sometimes skips lunch,Rarely,Everyday,EveryDay,Moderate,Low,Yes,1-2 times,7
+20 below,Female,less then 6,sometimes skips dinner,Everyday,Everyday,Rarely,High,Moderate,Yes,more the 4 times,4
+20 below,Female,more then 6,sometimes skips lunch,Rarely,Rarely,EveryDay,Moderate,Moderate,No,1-2 times,9
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,EveryDay,Moderate,Moderate,No,0,8
+40+,Female,more then 6,"always 3 (breakfast, lunch, dinner)",Everyday,Rarely,Rarely,Moderate,Low,Yes,1-2 times,5
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Low,Moderate,No,0,7
+21-30,Female,6,"always 3 (breakfast, lunch, dinner)",Rarely,Rarely,Rarely,High,Moderate,No,0,7
+21-30,Female,more then 6,sometimes skips dinner,3-4 days,Everyday,3-4 days,High,Moderate,No,0,5
+21-30,Female,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,High,No,1-2 times,5
+40+,Female,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,9
+20 below,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,EveryDay,Moderate,Very Low,No,3-4 times,8
+20 below,Male,6,sometimes skips breakfast,Rarely,Everyday,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Everyday,Rarely,Moderate,Moderate,No,1-2 times,6
+21-30,Female,6,sometimes skips breakfast,Rarely,3-4 days,Rarely,Moderate,Low,No,0,4
+21-30,Male,6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Low,Moderate,No,1-2 times,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,3-4 days,Rarely,High,Moderate,No,0,6
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Female,more then 6,sometimes skips lunch,Everyday,Rarely,EveryDay,Moderate,High,Yes,1-2 times,7
+31-40,Female,6,sometimes skips dinner,Rarely,Everyday,EveryDay,Low,Low,Yes,more the 4 times,7
+40+,Female,more then 6,sometimes skips dinner,3-4 days,Rarely,Rarely,Moderate,Moderate,No,0,5
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",3-4 days,Rarely,Rarely,Moderate,Moderate,No,1-2 times,5
+21-30,Male,more then 6,sometimes skips lunch,Rarely,Rarely,Rarely,Moderate,Moderate,No,0,9
+21-30,Male,less then 6,sometimes skips breakfast,Rarely,Everyday,Rarely,Moderate,Moderate,No,0,8
+20 below,Male,more then 6,sometimes skips breakfast,3-4 days,Everyday,Rarely,Moderate,Moderate,Yes,0,8
+20 below,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,Everyday,EveryDay,Moderate,Moderate,No,0,8
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,3-4 days,Rarely,Low,Moderate,No,0,6
+21-30,Male,more then 6,"always 3 (breakfast, lunch, dinner)",Rarely,3-4 days,3-4 days,Moderate,Moderate,No,0,7
+21-30,Male,more then 6,sometimes skips breakfast,3-4 days,Rarely,EveryDay,Moderate,High,No,0,9
